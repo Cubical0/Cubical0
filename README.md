@@ -1,16 +1,55 @@
-## Hi there 👋
+💫 About Me:
+Hi, I’m Yuvraj Singh Rathore 👋
 
-<!--
-**Cubical0/Cubical0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern, scalable, and high-performance web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Chakra UI
+- Redux Toolkit
+- Framer Motion
+- GSAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Focused On
+- Mastering JavaScript deeply
+- Advanced frontend engineering
+- Building production-grade UI/UX
+- Real-time applications
+- AI-powered web products
+
+## What I Build
+- SaaS dashboards
+- Animated landing pages
+- AI tools
+- Realtime systems
+- Modern responsive interfaces
+
+## Goals
+- Become an exceptional frontend engineer
+- Contribute to open source
+- Build impactful products
+- Continuously improve problem-solving skills
+
+## Connect With Me
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+🌐 Socials:
+LinkedIn X
+
+💻 Tech Stack:
+React Next JS JavaScript Yarn MongoDB Framer Git GitHub Bitbucket Jira Netlify Vercel
+
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
+
+
