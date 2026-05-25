@@ -1,5 +1,15 @@
-# 💫 About Me:
-# Hi, I'm Yuvraj Singh Rathore 👋<br><br>Frontend Developer focused on building modern, scalable, and high-performance web applications.<br><br>## Tech Stack<br>- JavaScript<br>- TypeScript<br>- React.js<br>- Next.js<br>- Tailwind CSS<br>- Chakra UI<br>- Redux Toolkit<br>- Framer Motion<br>- GSAP<br><br>## Currently Focused On<br>- Mastering JavaScript deeply<br>- Advanced frontend engineering<br>- Building production-grade UI/UX<br>- Real-time applications<br>- AI-powered web products<br><br>## What I Build<br>- SaaS dashboards<br>- Animated landing pages<br>- AI tools<br>- Realtime systems<br>- Modern responsive interfaces<br><br>## Goals<br>- Become an exceptional frontend engineer<br>- Contribute to open source<br>- Build impactful products<br>- Continuously improve problem-solving skills<br><br>## Connect With Me<br>- LinkedIn: YOUR_LINKEDIN<br>- Portfolio: YOUR_PORTFOLIO
+# Hi, I'm Yuvraj Singh Rathore 👋
+
+Frontend Developer passionate about building modern, scalable, and high-performance web applications.
+
+## Tech Stack
+JavaScript • TypeScript • React • Next.js • Tailwind CSS • Redux • Framer Motion • GSAP
+
+## Currently Exploring
+Advanced JavaScript, frontend architecture, AI-powered apps, and production-grade UI/UX.
+
+## Building
+SaaS apps • AI tools • Realtime systems • Modern interfaces
 
 
 ## 🌐 Socials:
